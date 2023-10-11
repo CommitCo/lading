@@ -1,0 +1,28 @@
+{
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "left",
+    "editor.fontFamily": "'Cascadia Code', Menlo, Monaco, 'Courier'",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "editor.wordWrap": "on",
+    "material-icon-theme.languages.associations": {
+
+    },
+    "editor.fontLigatures": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Atom One Dark",
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[astro]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
